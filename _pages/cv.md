@@ -20,16 +20,11 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* 2016-2018: Postdoctoral Fellow 2016-2018
+  * Leibniz Universität Hannover, Software Engineering Group
+* 2013-2016: Research Assistant/ PhD Candidate
+  * Clausthal University of Technology
+    
 Skills
 ======
 * Skill 1
