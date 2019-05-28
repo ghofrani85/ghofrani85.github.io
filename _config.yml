@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Javad Ghofrani"
   avatar           : "profile.png"
-  bio              : "Postdoctroal Researcher IIoT and SE"
+  bio              : "Postdoctroal Researcher Industrial IoT"
   location         : "Dresden-Germany"
   employer         : "HTW Dresden"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "javad.ghofrani@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Javad_Ghofrani"
   uri              :
