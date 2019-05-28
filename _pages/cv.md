@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * PhD 2013-2016
- * Clausthal University of Technology, Department of Informatics/Institute for Disposal Research
+  * Clausthal University of Technology, Department of Informatics/Institute for Disposal Research
 * MSc Informatics 2010-2013
- * Clausthal University of Technology, Department of Informatics
+  * Clausthal University of Technology, Department of Informatics
 * BSc Software Engineering 2004-2009
-  *Iran University of Science and Technology
+  * Iran University of Science and Technology
 
 Work experience
 ======
