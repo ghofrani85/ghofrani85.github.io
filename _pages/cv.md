@@ -12,21 +12,11 @@ redirect_from:
 Education
 ======
 * PhD 2013-2016
-Clausthal University of Technology, Department of Informatics/Institute for Disposal Research
-PhD thesis: Conceptualization and software development of a simulation environment for probabilistic
-safety assessments of radioactive waste repositories (Magna Cum Laude)
-Thesis advisors: Prof. Klaus J. Rohlig, Prof. Sven Hartmann
+ * Clausthal University of Technology, Department of Informatics/Institute for Disposal Research
 * MSc Informatics 2010-2013
-Clausthal University of Technology, Department of Informatics
-Master Thesis: A novel approach to improve the recycling methods to rened and reconnect broken
-links in the web of data
-Academic/Research advisor: Prof. Sven Hartmann
-'BSc Software Engineering 2004-2009
-Iran University of Science and Technology
-Bachelor thesis: XML based Distributed Articial Neural Network with Globus Toolkit: A novel approach
-is presented for implementing Articial Neural Networks using Globus Toolkit based on XML architecture
-definition
-Academic/Research advisor: Dr. Hamidreza Mahini
+ * Clausthal University of Technology, Department of Informatics
+* BSc Software Engineering 2004-2009
+  *Iran University of Science and Technology
 
 Work experience
 ======
