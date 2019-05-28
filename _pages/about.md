@@ -30,6 +30,6 @@ Teaching
 
 Thesis Supervision
 ------
-I have always topics for diplom, master and bachelor theses. Please look [hier](htw Dresden) 
+I have always topics for diplom, master and bachelor theses. Please look [hier](https://www.htw-dresden.de/de/fakultaet-informatikmathematik/forschung/arbeitsgruppen/smart-production-systems/ausschreibungen.html) 
 
 
