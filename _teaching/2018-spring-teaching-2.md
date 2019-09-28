@@ -1,10 +1,10 @@
 ---
-title: "Poroduktlinienentwicklung für mobile Anwendungen (Product line engineering for mobile applications)"
+title: "Microservices Architecture"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/2018-spring-teaching-1
 venue: "Leibniz University of Hanover, Electrotechnik and Informatik"
-date: 2016-10-25
+date: 2017-4-1
 location: "Honover, Germany"
 ---
 Microservice architecture, or simply microservices, is a distinctive method of developing software systems that has grown in popularity in recent years. Microservices architecture is a better way of implementing a service oriented architecture. It gives you the ability to create competitive software which is scalable, flexible, and reliable. In this course, learn the design principles for a microservices architecture.
