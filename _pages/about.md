@@ -18,6 +18,8 @@ During my academic career, I have extended my research experience in the field o
 Publications 
 ======
 In order to see  the list of my publications, please visit my [Google Scholar page](https://scholar.google.de/citations?user=OkG7y0IAAAAJ&hl=de). 
+
+
 Projects
 ======
  Debuti: Digitale Assistenzsysteme für Robotersteuerung in Fertigung, HTW Dresden, 2019
