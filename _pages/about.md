@@ -23,8 +23,10 @@ In order to see  the list of my publications, please visit my [Google Scholar pa
 
 Projects
 ======
- Debuti: Digitale Assistenzsysteme für Robotersteuerung in Fertigung, HTW Dresden, 2019
- Arrohead Tools: European investment for Digitalisation and Automation Leadership, 2019 
+Debuti: Digitale Assistenzsysteme für Robotersteuerung in Fertigung, HTW Dresden, 2019
+Arrohead Tools: European investment for Digitalisation and Automation Leadership, 2019 
+
+
 Teaching
 ======
 1. Industrial Robotics (in German)
