@@ -29,12 +29,12 @@ Arrohead Tools: European investment for Digitalisation and Automation Leadership
 
 Teaching
 ======
-1. Industrial Robotics (in German)
-2. Business Modeling (German),
-3. Programming PLCs (German)
-4. Microservices Architecture (in English)
-5. Software Product Lines for Mobile Applications (in German) 
-6. Web Information Systems (in English)
+1. Industrial Robotics 
+2. Business Modeling
+3. Programming PLCs 
+4. Microservices Architecture 
+5. Software Product Lines Engineering 
+
 
 Thesis Supervision
 ------
