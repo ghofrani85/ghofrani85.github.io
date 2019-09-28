@@ -1,4 +1,4 @@
-
+---
 title: "Adaptive Path Formation in Self-Assembling Robot Swarms" 
 collection: publications
 permalink: /publication/dars18
