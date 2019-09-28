@@ -11,7 +11,6 @@ location: "Dresden, Germany"
 
 Topics
 ======
-Link to video of my [Tutorial on ABB Robotstudio in German](https://www.youtube.com/watch?v=MpEBKLT7vz8&t=1922s)
 
 
 Goals
