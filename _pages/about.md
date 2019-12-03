@@ -38,6 +38,6 @@ Teaching
 
 Thesis Supervision
 ------
-I have always topics for diplom, master and bachelor theses. Please look [hier](https://www.htw-dresden.de/hochschule/fakultaeten/info-math/forschung/smart-production-systems/themen-fuer-abschlussarbeiten) 
+I have always topics for diplom, master and bachelor theses. You find them in the [webpage of our institut](https://www.htw-dresden.de/hochschule/fakultaeten/info-math/forschung/smart-production-systems/themen-fuer-abschlussarbeiten) 
 
 
