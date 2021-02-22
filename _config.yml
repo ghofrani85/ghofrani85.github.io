@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Javad Ghofrani "
 title_separator          : "-"
 name                     : &name "Javad Ghofrani"
-description              : &description "Postdoctoral researcher / HTW Dresden"
+description              : &description "Postdoctoral researcher / Universtiy of Luebeck"
 url                      : https://ghofrani85.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghofrani85.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Javad Ghofrani"
   avatar           : "profile.png"
-  bio              : "Postdoctroal Researcher Industrial IoT"
-  location         : "Dresden-Germany"
-  employer         : "HTW Dresden"
+  bio              : "Postdoctroal Researcher Intelligent Systems"
+  location         : "Luebeck-Germany"
+  employer         : "University of Luebeck"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "javad.ghofrani@gmail.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/javad-ghofrani-787329184/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
