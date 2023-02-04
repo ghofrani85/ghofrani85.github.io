@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am postdoctoral researcher working at Univseriy of Luebeck (Germany), affiliated to the Intelligent Systems Group of Prof. Mladen Berekovic. I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden. I have a Ph.D. in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
+I am postdoctoral researcher working at University of Luebeck (Germany), affiliated to the Interim Professorship in Service Robotics. I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden and (2016-2018) in Software engineering Group at University of Hanover (Germany). I did my Ph.D. in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
 
 Research 
 ======
