@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am postdoctoral researcher working at University of Luebeck (Germany), affiliated to the Interim Professorship in Service Robotics. I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden and (2016-2018) in Software engineering Group at University of Hanover (Germany). I did my Ph.D. in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
+I am holding an Interim Professorship in Service Robotics at University of Luebeck (Germany). I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden and (2016-2018) in Software engineering Group at University of Hanover (Germany). I did my Ph.D. in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
 
 Research 
 ======
@@ -23,6 +23,8 @@ In order to see  the list of my publications, please visit my [Google Scholar pa
 
 Projects
 ======
+EMDrive: design and develop a virtual prototype of service oriented architecture for safety and security evaluation in the autonomous driving, University of Luebeck, 2022-2025 
+COREM: Controlling Maintenance of Production Systems via Remote Technology, HTW Dresden 2020-2023
 Debuti: Digitale Assistenzsysteme für Robotersteuerung in Fertigung, HTW Dresden, 2019
 Arrohead Tools: European investment for Digitalisation and Automation Leadership, 2019 
 
