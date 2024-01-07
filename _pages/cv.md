@@ -20,7 +20,11 @@ Education
 
 Work experience
 ======
-* 2018-Now:  Postdoctoral Fellow 
+* 2022-now:  Professhorship in Service Robotics (Interim) 
+  * University of Luebeck,  Institut for Computer Engineering, Germany
+* 2020-2022:  Postdoctoral Fellow 
+  * University of Luebeck,  Institut for Computer Engineering, Germany
+* 2018-2020:  Postdoctoral Fellow 
   * HTW Dresden University of Applied Sciences, Smart Production Group, Germany
 * 2016-2018: Postdoctoral Fellow 
   * Leibniz Universität Hannover, Software Engineering Group, Germany
