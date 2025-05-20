@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. rer. nat. Javad Ghofrani"
+title: "Prof. Dr. Javad Ghofrani"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -24,8 +24,11 @@ In order to see  the list of my publications, please visit my [Google Scholar pa
 Projects
 ======
 EMDrive: design and develop a virtual prototype of service oriented architecture for safety and security evaluation in the autonomous driving, University of Luebeck, 2022-2025 
+
 COREM: Controlling Maintenance of Production Systems via Remote Technology, HTW Dresden 2020-2023
+
 Debuti: Digitale Assistenzsysteme für Robotersteuerung in Fertigung, HTW Dresden, 2019
+
 Arrohead Tools: European investment for Digitalisation and Automation Leadership, 2019 
 
 
