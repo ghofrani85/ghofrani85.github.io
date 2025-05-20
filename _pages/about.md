@@ -43,6 +43,6 @@ Teaching
 
 Thesis Supervision
 ------
-I have always topics for diplom, master and bachelor theses. You find them in the [webpage of our institut](https://www.iti.uni-luebeck.de/lehre/abschlussarbeiten-praktika-projekte.html) 
+I have always topics for diplom, master and bachelor theses. You find contact me via  [My webpage ](https://www.h-brs.de/de/inf/prof-dr-javad-ghofrani) 
 
 
