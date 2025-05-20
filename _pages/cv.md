@@ -20,7 +20,9 @@ Education
 
 Work experience
 ======
-* 2022-now:  Professhorship in Service Robotics (Interim) 
+* 2025-now: Professor of Autonomous Systems
+  * University of Applied Sciences (H-BRS), Germany 
+* 2022-2025:  Professhorship in Service Robotics (Interim) 
   * University of Luebeck,  Institut for Computer Engineering, Germany
 * 2020-2022:  Postdoctoral Fellow 
   * University of Luebeck,  Institut for Computer Engineering, Germany
