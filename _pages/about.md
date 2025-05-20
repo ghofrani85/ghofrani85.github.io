@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am holding an Interim Professorship in Service Robotics at University of Luebeck (Germany). I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden and (2016-2018) in Software engineering Group at University of Hanover (Germany). My Ph.D. was in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
+I am Professor of Autonomous Systems at University of Applied Sciences Bonn-Rhein-Sieg (Germany). I have my previous postdoc (2018-2022) in the Smart Production Systems Group at the HTW Dresden and (2016-2018) in Software engineering Group at University of Hanover (Germany). My Ph.D. was in an interdisciplinary project from the faculty of computer science and the institute for disposal research at Clausthal university of technology.
 
 Research 
 ======
