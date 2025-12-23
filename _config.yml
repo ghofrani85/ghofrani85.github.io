@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Javad Ghofrani "
+title                    : "Professor Dr Javad Ghofrani "
 title_separator          : "-"
 name                     : &name "Javad Ghofrani"
-description              : &description "Postdoctoral researcher / Universtiy of Luebeck"
+description              : &description "Professor of Computer Science and Head of the Institute for Artificial Intelligence and Autonomous Systems "
 url                      : https://ghofrani85.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ghofrani85.github.io"
