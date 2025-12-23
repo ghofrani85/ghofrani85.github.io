@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Javad Ghofrani"
   avatar           : "profile.png"
-  bio              : "Interim Professorship in Service Robotics"
-  location         : "Luebeck-Germany"
-  employer         : "University of Luebeck"
+  bio              : "Professor of Computer Science and Head of the Institute for Artificial Intelligence and Autonomous Systems"
+  location         : "Sankt Augustin-Germany"
+  employer         : "University of Applied Sciences Bonn-Rhein-Sieg"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "javad.ghofrani@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=OkG7y0IAAAAJ"
+  email            : "javad.ghofrani@h-brs.de"
   researchgate     : "https://www.researchgate.net/profile/Javad_Ghofrani"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/javad-ghofrani-787329184/"
+  linkedin         : #"https://www.linkedin.com/in/javad-ghofrani-787329184/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "ghofranieee"
+  twitter          : #"ghofranieee"
   vine             :
   weibo            :
   xing             :
